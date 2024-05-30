@@ -1,0 +1,31 @@
+.body{
+	margin: 0px;
+	font-family: sans-serif;
+}
+.main{
+	width: 100%;
+	padding: 50px 0px;
+	background-color: 001C34;
+}
+.heading{
+	width: 1320px;
+	font-size: 60px;
+	font-weight: bold;
+	color: white;
+	text-align: center;
+}
+.smallline{
+	text-align: center;
+	color: white;
+	font-size: 20px;
+}
+.main2{
+	width: 100%;
+}
+.Iteam1{
+	width: 25px;
+	color: white;
+	padding: 40px 0px;
+	float: left;
+	border-right: 1px solid white;
+}
